@@ -15,13 +15,12 @@
 
 ### Пользовательский интерфейс
 
-<img src="DOCS/start.gif" width="20%" height="420" alt="/start"/>
-<img src="DOCS/admin_chat.gif" width="20%" height="420" alt="admin_chat"/>
+<img src="DOCS/start.gif" width="20%" height="420" alt="/start"/> <img src="DOCS/admin_chat.gif" width="20%" height="420" alt="admin_chat"/>
 
 ### Админка
 
-<img src="DOCS/reg.gif" width="20%" height="420" alt="/admin_panel"/>
-<img src="DOCS/tickets.gif" width="20%" height="420" alt="tickets"/>
+<img src="DOCS/reg.gif" width="20%" height="420" alt="/admin_panel"/> <img src="DOCS/tickets.gif" width="20%" height="420" alt="tickets"/>
+
 
 # Установка
 
